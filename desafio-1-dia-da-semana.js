@@ -22,4 +22,4 @@ function determinaDiaDaSemana(numeroDia) {
 
     }
 }
-console.log(determinaDiaDaSemana("5"))
+//console.log(determinaDiaDaSemana("5"))
