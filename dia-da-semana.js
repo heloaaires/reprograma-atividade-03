@@ -1,7 +1,7 @@
 //Elabore um algoritmo que receba um número (1-7) 
 //e devolva o dia da semana correspondente.
 
-function diaDaSemana(numeroDia) {
+function determinaDiaDaSemana(numeroDia) {
     switch(numeroDia){
         case '1':
             return 'Domingo'
@@ -22,4 +22,4 @@ function diaDaSemana(numeroDia) {
 
     }
 }
-console.log(diaDaSemana("9"))
+console.log(determinaDiaDaSemana("5"))
